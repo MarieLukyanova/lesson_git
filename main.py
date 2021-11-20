@@ -1,5 +1,5 @@
 def print_hi():
-    print('Pomidor')
+    print('Hi, world')
 
 
 if __name__ == '__main__':
